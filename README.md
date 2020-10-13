@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Rong YAN's Homepage
+
+This page is still under construction.
 
 You can use the [editor on GitHub](https://github.com/yanrong052/yanrong.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
